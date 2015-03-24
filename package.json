@@ -1,0 +1,30 @@
+{
+  "name": "yq",
+  "version": "0.0.1",
+  "description": "Anthor async control flow by generator without promise.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsenjoy/yq"
+  },
+  "keywords": [
+    "generator",
+    "async",
+    "flow",
+    "promise",
+    "yield"
+  ],
+  "author": "Boom Lee <boom11235.gg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsenjoy/yq/issues"
+  },
+  "homepage": "https://github.com/jsenjoy/yq",
+  "devDependencies": {
+    "jshint": "^2.6.3",
+    "mocha": "^2.2.1"
+  }
+}
